@@ -21,3 +21,34 @@ header nav {
     display: flexbox;
    
 }    
+
+#tipos-de-filtro {
+    text-align: center;
+
+}
+
+#tipos-de-filtro .contenedor-filtro {
+    padding: 150px 12px ;
+    
+}
+
+#tipos-de-filtro .carta{
+    background-position: center center;
+    background-size: cover;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 20px;
+    color: rgb(253, 251, 251);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center center;
+    }
+
+    .contenedor{ 
+        max-width: 1400px;
+        margin: auto;
+    }    
+
+    .carta {
+        background-color: rgb(3, 3, 117);
+    }
